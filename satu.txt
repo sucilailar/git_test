@@ -1,0 +1,4 @@
+ini adalah 
+text
+dari
+satu.txt
