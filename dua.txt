@@ -2,3 +2,6 @@ ini adalah
 text
 dari
 satu.txt
+
+ini hanya coba coba
+coba lagi
