@@ -5,4 +5,5 @@ satu.txt
 
 ini hanya coba coba
 coba lagi
-ini berubah biar conflict
+ini perubahan untuk percobaan hari ini
+
