@@ -5,9 +5,8 @@ satu.txt
 
 ini berubah
 ini perubahan pada git_test2
-<<<<<<< HEAD
 
 bermain dengan revert
 main lagi
-=======
->>>>>>> parent of 5519caf... revert -menambah perubahan
+
+
