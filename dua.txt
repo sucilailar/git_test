@@ -6,3 +6,4 @@ satu.txt
 ini hanya coba coba
 coba lagi
 ini perubahan untuk percobaan hari ini
+
