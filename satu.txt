@@ -8,3 +8,5 @@ ini perubahan pada git_test2
 
 bermain dengan revert
 main lagi
+
+main dulu
