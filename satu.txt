@@ -4,3 +4,4 @@ dari
 satu.txt
 
 ini berubah
+ini perubahan pada git_test2
